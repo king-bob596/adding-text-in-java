@@ -1,0 +1,26 @@
+*{
+    box-sizing:border-box;
+    font-family:  sans-serif;
+}
+body,html{
+    margin:0px;
+    padding:0px;
+    background-color:rgb(236, 178, 69)
+}
+header{
+    min-height: 10px;
+    background-color:#77ffff;
+    padding:12px;
+    font-size: 3vw;
+    text-align: center;
+}
+main{
+    width:60vw;
+    margin:0px auto;
+    padding:12px;
+    background-color: white;
+    min-height:70vh
+}
+footer{
+    height:20vh;
+    background-color: #77ffff;}
